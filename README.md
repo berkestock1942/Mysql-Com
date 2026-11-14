@@ -204,4 +204,4 @@ This repository serves as the official landing page for MySQL. The software is d
 **Get the most recent version of MySQL today!**
 
 ---
-**Last updated:** 2026-11-14 01:09:01 UTC
+**Last updated:** 2026-11-14 08:21:53 UTC
